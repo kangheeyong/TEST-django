@@ -9,6 +9,16 @@ h1, h2, h3, h4, h1 a {
     font-family: 'Lobster';
 }
 
+.post-form textarea, .post-form input {
+    width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
 
 .page-header {
     background-color: #ff9400;
@@ -17,7 +27,7 @@ h1, h2, h3, h4, h1 a {
 }
 
 .post {
-    margin-bottom: 70px;
+    margin-bottom: 60px;
 }
 
 
