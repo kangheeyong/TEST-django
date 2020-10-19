@@ -4,6 +4,7 @@
 *.pyc
 *.log
 *.pid
+*.icloud
 __pycache__
 myvenv
 db.sqlite3

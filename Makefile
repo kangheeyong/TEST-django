@@ -4,4 +4,4 @@ clean:
 	-find -name "*.pyc" -exec rm {} \;
 
 make_project:
-	python3 -m django startproject mysite
+	 django-admin startproject app
